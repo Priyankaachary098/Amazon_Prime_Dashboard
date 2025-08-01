@@ -29,4 +29,4 @@ Release Year Trend: Line chart visualizing how content production has evolved ov
 📅 Significant content spike post-2015, indicating increased investment in digital media.
 👤 Thousands of directors involved, showing vast diversity in content creators.
 
-![Dashboard Preview].()
+![Dashboard Preview].(https://github.com/Priyankaachary098/Amazon_Prime_Dashboard/blob/main/Amazon_Prime_Dashboard.png)
